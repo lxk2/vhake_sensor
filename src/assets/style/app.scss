@@ -1,0 +1,15 @@
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.container {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0 20px;
+}
+
+.van-picker-column__item {
+  font-size: 28px!important;
+}
